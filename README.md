@@ -25,6 +25,6 @@
 <details>
   <summary>:zap: Top Languages</summary>
 
-  <img align="left" alt="mtevfik41's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtevfik41&show_icons=true&hide_border=true&theme=react&layout=compact&langs_count=8&hide=html,makefile" />
+  <img align="left" alt="mtevfik41's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtevfik41&show_icons=true&hide_border=true&theme=react&layout=compact&langs_count=8&hide=html,css,scss,makefile,python" />
 
 </details>
