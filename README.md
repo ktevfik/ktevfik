@@ -19,12 +19,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mtevfik41's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mtevfik41&show_icons=true&hide_border=true&count_private=true&theme=react" />
+  <img align="left" alt="ktevfik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ktevfik&show_icons=true&hide_border=true&count_private=true&theme=react" />
 
 </details>
 <details>
   <summary>:zap: Top Languages</summary>
 
-  <img align="left" alt="mtevfik41's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtevfik41&show_icons=true&hide_border=true&theme=react&layout=compact&langs_count=8&hide=html,css,scss,makefile,python" />
+  <img align="left" alt="ktevfik's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktevfik&show_icons=true&hide_border=true&theme=react&layout=compact&langs_count=8&hide=html,css,scss,makefile,python" />
 
 </details>
